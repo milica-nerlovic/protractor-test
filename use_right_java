@@ -1,0 +1,4 @@
+#!/bin/sh
+
+source /opt/change-java-version.sh
+change-java-version 8
