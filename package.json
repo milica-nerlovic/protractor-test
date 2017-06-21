@@ -1,0 +1,16 @@
+{
+  "name": "Protracot test",
+  "description": "Just a test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milica-nerlovic/protractor-test"
+  },
+  "dependencies": {
+    "protractor": "^5.0.0",
+    "cucumber": "^1.0.0",
+    "protractor-cucumber-framework": "^1.0.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  }
+}
